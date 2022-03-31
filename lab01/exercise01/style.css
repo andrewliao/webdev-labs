@@ -13,9 +13,8 @@ Add some style blocks below this line to style the card.
 .page-section {
     box-sizing: border-box;
     border: dotted 1px #CCC; 
-    width: 50vh;
-    height: 60vh;   
-    padding: 10px;
+    width: 60vh;
+    height: 70vh;  
     /*
     Alternative syntax:
     padding-top: 10px;
@@ -33,3 +32,10 @@ Add some style blocks below this line to style the card.
     */
 }
 
+
+
+.page-section img {
+    width: 60vh;
+    max-height: 80vh;
+    display: block;
+  }
