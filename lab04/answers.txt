@@ -1,0 +1,10 @@
+What is the value of SQLAlchemy?
+The benefit of using SQLAlchemy is that it is a python abstraction that helps makes us communicate with databases easier. With it being database agnostic, meaning the commands we use can work on a variety of places from PostgreSQl to MySQL.
+
+What is a model?
+
+A model in a database essentially handles the data logic.
+
+What is a view?
+
+A view essentially displays all the information from the model to the user.
